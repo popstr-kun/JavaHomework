@@ -8,6 +8,7 @@ public class P27 {
 
         num2 = num1;
 
-        System.out.println("將 變數num1");
+        System.out.println("將變數num1指定到變數num2之中");
+        System.out.println("變數num2的值是:"+num2);
     }
 }
